@@ -1,0 +1,1 @@
+# Como sabemos el "#" , se usa para comentar lineas de codigo, lo que queda de ellos.Se llamo por primera vez como "libra pondo" que vendria siendo "lb"
