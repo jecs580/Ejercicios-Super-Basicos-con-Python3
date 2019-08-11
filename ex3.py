@@ -2,7 +2,7 @@ print("Ahora contare mis pollos: ")
 # Calculo para contar las gallinas, vista con parentesis:25+(30/6)
 print("Gallinas: ", 25+30/6)
 # Calculo para contar los gallos, vista con parentesis: 100-((25*3)%4)
-print("Gallos: ",100-25*3%4)
+print("Gallos: ",100.0-25.0*3.0%4.0)
 print("Ahora contare los huevos: ")
 # Calculo para contar los huevos, vista con parentesis: 3+2+1-5+(4%2)-(1/4)+6
 print(3+2+1-5+4%2-1/4+6)
